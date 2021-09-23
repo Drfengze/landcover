@@ -120,7 +120,6 @@ dependencies:
   - nss=3.47=he751ad9_0
   - numpy=1.18.5=py37h8960a57_0
   - olefile=0.46=py_0
-  - opencv=4.2.0=py37_5
   - openh264=2.1.1=h8b12597_0
   - openjpeg=2.3.1=h981e76c_3
   - openssl=1.1.1g=h516909a_0
@@ -146,6 +145,7 @@ dependencies:
   - python=3.7.6=cpython_h8356626_6
   - python-dateutil=2.8.1=py_0
   - python_abi=3.7=1_cp37m
+  - py-opencv=4.2.0=py37h43977f1_5
   - pytorch=1.5.1=py3.7_cuda10.2.89_cudnn7.6.5_0
   - pywavelets=1.1.1=py37h03ebfcd_1
   - pyyaml=5.3.1=py37h8f50634_0
